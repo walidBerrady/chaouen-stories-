@@ -46,7 +46,7 @@ export default function Navbar() {
           onClick={() => setIsOpen(false)}
         >
           <img
-            src="/logo/logo-chaouen.png"
+            src="/logo/logo.png"
             alt="Chaouen Stories"
             className="h-12 w-auto object-contain"
           />
